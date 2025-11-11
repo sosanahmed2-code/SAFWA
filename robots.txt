@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://strong-sopapillas-47e281.netlify.app/sitemap.xml

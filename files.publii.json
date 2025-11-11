@@ -1,0 +1,227 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "a051fc0d9470a960bb8134c944c4f123"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "4202808df745f2ac7ab250606fa0d272"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "fa238f48f9a2ab93b0c59a116e831bca"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "11bee19e86e8eda2cf9a60efd975666d"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "700105c316933a8202041b6415abb233"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "9b7d020c55e2b4f77ab40c97f88f9ff4"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "ff4392540fcf4c3d3f5e03806e112816"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/mrw",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/mrw/index.html",
+        "type": "file",
+        "md5": "bac981859c10550b6c1985700b0665cb"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "af64be44cbb9e296c6ae10f7fade4cc4"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "8c7f56812dfc5016fecbdc990449a722"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "9dd8c3021efc194f4ebba01a883685e2"
+    },
+    {
+        "path": "learn-quran-recitation-online-a-journey-to-perfecting-your-voice-with-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-a-journey-to-perfecting-your-voice-with-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "ec1d24735c5cf1036d6a9e1aa519f2f8"
+    },
+    {
+        "path": "learn-quran-recitation-online-perfect-your-connection-with-the-words-of-allah",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-recitation-online-perfect-your-connection-with-the-words-of-allah/index.html",
+        "type": "file",
+        "md5": "fd98c436c29df893b97881849f900ca4"
+    },
+    {
+        "path": "learn-quran-tafseer-online-discover-the-depth-and-beauty-of-allahs-words",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-tafseer-online-discover-the-depth-and-beauty-of-allahs-words/index.html",
+        "type": "file",
+        "md5": "331ab08b276f92d5e14b07ad2ede8854"
+    },
+    {
+        "path": "learn-quran-tafseer-online-understand-the-quran-beyond-translation",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-tafseer-online-understand-the-quran-beyond-translation/index.html",
+        "type": "file",
+        "md5": "d5aed1f792a1988d667b9f98fd1aa4df"
+    },
+    {
+        "path": "learn-quran-tafseer-online-unlock-the-message-of-the-quran-from-anywhere",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/learn-quran-tafseer-online-unlock-the-message-of-the-quran-from-anywhere/index.html",
+        "type": "file",
+        "md5": "4fc602667af98b410026083ac3b70cf0"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/syb-2xl.jpg",
+        "type": "file",
+        "md5": "8d2ea0969e300d7d51973f56cb022987"
+    },
+    {
+        "path": "/media/website/responsive/syb-lg.jpg",
+        "type": "file",
+        "md5": "ecebfbfaa5a6223a7bf2f17047813ac2"
+    },
+    {
+        "path": "/media/website/responsive/syb-md.jpg",
+        "type": "file",
+        "md5": "27742ae72eae728939b014564258824b"
+    },
+    {
+        "path": "/media/website/responsive/syb-sm.jpg",
+        "type": "file",
+        "md5": "7a4aa9b024c229ff65f3604f08cb2ff9"
+    },
+    {
+        "path": "/media/website/responsive/syb-xl.jpg",
+        "type": "file",
+        "md5": "8d2ea0969e300d7d51973f56cb022987"
+    },
+    {
+        "path": "/media/website/responsive/syb-xs.jpg",
+        "type": "file",
+        "md5": "22e8b406c7360b28eedd61c0257d794b"
+    },
+    {
+        "path": "/media/website/syb.jpg",
+        "type": "file",
+        "md5": "f8d28c0b75625aaccaafc2ce97e3fa9d"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "2093e00b0a512e0d1a0c496cafb0e076"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "bbf8d4ceb4c509bd2c8817efd1610b83"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "56f6e942e285b2b169235e574045d178"
+    }
+]
